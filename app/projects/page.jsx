@@ -47,7 +47,7 @@ const projects = [
         description: "The Tic-Tac-Toe Game is a hands-on interactive project built with React, designed to demonstrate core React concepts like components, state management, and props. Players can engage in a classic two-player game, with dynamic state tracking that updates the UI and detects winners or draws. One of the standout features is the 'time travel' functionality, allowing players to review the game history and jump back to any previous move. Using React for component-based architecture and CSS for styling, this project highlights my proficiency in React's state management and user interface development.",
         stack: [{ name: 'React' }],
         href: "https://github.com/Ma-n-a-v/Tic-Tac-Toe",
-        image: '/assets/work/tic_tac_toe.png',
+        image: '/assets/work/tic-tac-toe.png',
         live: '',
     },
 ];
