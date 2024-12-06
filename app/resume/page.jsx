@@ -90,7 +90,7 @@ const experience = {
         },
         {
             company: 'Baroda Rayon Corporation, Surat, India',
-            position: 'Web Developer Intern',
+            position: 'Web Developer Intern (Remote)',
             duration: 'January 2023 - April 2024',
         },
     ],
