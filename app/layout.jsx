@@ -16,6 +16,10 @@ const jetbrainsMono = JetBrains_Mono({
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={jetbrainsMono.variable}>
+     <head>
+        <link rel="icon" href="../public/assets/favicon.ico" type="image/x-icon" />
+        <title>Manav | Portfolio</title>
+      </head>
       <body>
         <Header />
         <StairTransition />
