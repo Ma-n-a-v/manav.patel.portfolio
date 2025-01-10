@@ -13,6 +13,10 @@ const stats = [
     {
         num: 14,
         text: "Technologies Mastered",
+    }, 
+    {
+        num: 3,
+        text: "Key Achievements",
     }
 ];
 
